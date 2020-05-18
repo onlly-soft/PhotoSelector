@@ -28,7 +28,7 @@ allprojects {
 在Module的build.gradle在添加以下代码
 
 ```
-implementation 'com.winfo.photoselector:PhotoSelector:1.2.1'
+implementation 'com.github.onlly-soft:PhotoSelector:v1.0.0'
 ```
 
 
